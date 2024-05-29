@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">My Novel</string>
+    <string name="my_visual_novel">My Visual Novel</string>
+    <string name="start">Start</string>
+    <string name="hello_my_name_is_jack_and_you">Hello My name is jack and You?</string>
+    <string name="name">name</string>
+    <string name="register_icon">Register icon</string>
+    <string name="accept">Accept</string>
+    <string name="great_what_we_are_going_to_do">Great, %1$s! What are we going to do?</string>
+    <string name="walking">Walking</string>
+    <string name="hiking">Hiking</string>
+    <string name="go_to_field">Go to Field</string>
+    <string name="maybe_go_home">Maybe go home?</string>
+    <string name="yes_film">Yes and watch the film</string>
+    <string name="yes_halloween">Yes and celebrate the Halloween</string>
+    <string name="getting_dark">How cozy! ... but it\'s already getting dark !</string>
+    <string name="watch_the_film">Go home and  watch the film</string>
+    <string name="celebrate_the_halloween">Go home and Celebrate  the Halloween</string>
+    <string name="go_home">You\'re sad ! let\'s go home ?</string>
+    <string name="watch_film">Maybe let\'s watch the film</string>
+    <string name="celebrate_halloween">Yes let\'s Celebrate  the Halloween</string>
+    <string name="like_film">Do you like this film?</string>
+    <string name="Like">I like it )</string>
+    <string name="no">No(</string>
+    <string name="beautiful">Very beautiful !</string>
+    <string name="let_s_watch_the_film">" let's watch the film!"</string>
+    <string name="create_costume">Yes let\'s Create Costume!</string>
+    <string name="time_to_sleep">Great it\'s time to sleep !</string>
+    <string name="too_late">Yes it\'s too late !</string>
+    <string name="maybe_go_sleep">Maybe go sleep?</string>
+    <string name="yes_it_s_too_late">Yes it\'s too late !</string>
+    <string name="like_your_costume">I like your costume)</string>
+    <string name="your_costume_is_beautiful_too">Your costume is beautiful too )</string>
+    <string name="didn_t_like_yours">To be honest i didn\'t like yours</string>
+    <string name="go_to_sleep">Thank you! let\'s go to sleep?</string>
+    <string name="its_too_late">Yes it\'s too late !</string>
+    <string name="not_taking_offence">It\'s ok i\'m not taking offence.. let\'s go sleep!</string>
+    <string name="yes_its_too_late">Yes it\'s too late !</string>
+    <string name="thank_you_for_playing">Thank You %1$s for playing!</string>
+    <string name="Repeat">Repeat the game</string>
+
+</resources>
